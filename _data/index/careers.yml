@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Supply AI
+    detail: Supply AI (DataCulture Inc.)
     i18n: company_a
   desc:
     detail: I write performant and maintainable code for our flagship SAAS product AspenCX in Django along with contributing in the DevOps engineering with the team.
