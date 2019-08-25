@@ -38,7 +38,7 @@
 
 - name:
     detail: Acadview
-    i18n: company_c
+    i18n: company_b
   desc:
     detail: Acadview is an Ed-Tech startup to bridge education gap in India and now acquired by UpGrad. <br>
     Some major features I contributed to-> <br>
@@ -46,12 +46,12 @@
     JAGANNATH university to generate student's mark sheets and transcripts currently being used by the university.
     <br>
     -> Taught Python, Django(Framework) and REST APIs to the batch of 28 students in the project-based learning environment. 
-    i18n: company_c_desc
+    i18n: company_b_desc
   date:
     detail: june. 2017
-    i18n: company_c_date
+    i18n: company_b_date
   job:
     detail: Python Intern
-    i18n: company_c_job
+    i18n: company_b_job
   icon: icon-python
   
