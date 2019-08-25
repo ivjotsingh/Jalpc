@@ -1,30 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Supply AI
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I write performant and maintainable code for our flagship SaaS product AspenCX in Django along with contributing in the DevOps engineering with the team.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: November. 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Engineer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: icon-aws
   present: true
 
 - name:
-    detail: Company B
+    detail: Acadview
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Acadview is an Ed-Tech startup to bridge education gap in India and now acquired by UpGrad. <br>
+    Some major features I contributed to-> <br>
+    Analytics System-> Developed System in which the admin can
+    analyze the various metrics for Projects, Sales Assignments, Attendance, Payments, and schedule. <br>
+    Customer Management System (CMS)-> Contributed to the
+    Development of back-end system for the student dashboard
+    which provides assignments, notes, videos data and also
+    allowing them to submit feedback, assignments, projects.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: June. 2018
     i18n: company_b_date
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: icon-postgres
+
+- name:
+    detail: Acadview
+    i18n: company_c
+  desc:
+    detail: Acadview is an Ed-Tech startup to bridge education gap in India and now acquired by UpGrad. <br>
+    Some major features I contributed to-> <br>
+    Result Automation-> Developed an end to end system for the
+    JAGANNATH university to generate student's mark sheets
+    and transcripts currently being used by the university.
+    <br>
+    -> Taught Python, Django(Framework) and REST APIs to the batch of 28 students in the project-based learning environment. 
+    i18n: company_c_desc
+  date:
+    detail: june. 2017
+    i18n: company_c_date
+  job:
+    detail: Python Intern
+    i18n: company_c_job
+  icon: icon-python
+  
