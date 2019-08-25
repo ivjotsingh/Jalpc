@@ -4,7 +4,7 @@
     detail: Supply AI (DataCulture Inc.)
     i18n: company_a
   desc:
-    detail: I write performant and maintainable code for our flagship SAAS product AspenCX in Django along with contributing in the DevOps engineering with the team.
+    detail: I write performant and maintainable code for our flagship SAAS product <a href="https://www.supply.ai/" AspenCX </a> in Django along with contributing in the DevOps engineering with the team.
     i18n: company_a_desc
   date:
     detail: November. 2018
