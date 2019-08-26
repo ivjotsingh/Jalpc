@@ -1,15 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
+- name: Aspen CX
+  i18n: aspen
+  url: supply.ai/aspen
+  img: https://aspencx.atlassian.net/secure/projectavatar?pid=10002&avatarId=10513&size=xxlarge
+  desc: AspenCX is a post purchase customer management system that enhances retailers' ability to service customers across multiple channels.
+
+- name: View
+  i18n: view
+  img: /static/assets/img/landing/python.png
+  desc: Acadview Is a EdTech company, I worked as a full-stack developer and done data analytics for the product whose features were mostly ops-driven.
+
+- name: CMS
+  i18n: music
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/python.png

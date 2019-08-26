@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, JS, Django, Java, REST, SQL, AWS, GitHub, Async Programming
-percentage: 90, 75, 90, 70, 85, 90, 75, 90, 85
+aspects: Python, JS, Django, Java, REST, SQL, AWS, GitHub, message queueing
+percentage: 90, 75, 90, 70, 85, 80, 75, 90, 85
