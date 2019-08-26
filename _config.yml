@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-postgres
-  desc: Hi, I am Ivjot Singh based out in New Delhi, India. <br> A software engineer who is more inclined towards backednd development, devOps automation and facinated to read and write technical blogs.<br> Aut viam inveniam aut faciam(I will either find a way or make one).  # Describe yourself.
+  desc: Hi, I am Ivjot Singh based in New Delhi, India. <br> A software engineer who is more inclined towards backend development, DevOps automation and facinated to read and write technical blogs.<br> Aut viam inveniam aut faciam(I will either find a way or make one).  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
