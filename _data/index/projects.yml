@@ -18,14 +18,14 @@
   i18n: sass_comm
   gh_user: ivjotsingh
   repo: SAAS_shopping
-  img: /static/assets/img/landing/dj.png
+  img: /static/assets/img/landing/dj.jpg
   desc: Software as a service products which e-commerce websites can intergerate to improve the shopping experience.
 
 - name: Personifier
   i18n: buyer_persona
   gh_user: ivjotsingh
   repo: buyer_persona
-  img: /static/assets/img/landing/ana.png
+  img: /static/assets/img/landing/ana.jpg
   desc: Digital marketing tool helps to find out the buyer's persona by plotting its interest and based on hash_tags, location, comments etc on Instagram.
 
 - name: Word Beater
