@@ -4,24 +4,33 @@
 
 - name: Aspen CX
   i18n: aspen
-  url: supply.ai/aspen
-  img: https://aspencx.atlassian.net/secure/projectavatar?pid=10002&avatarId=10513&size=xxlarge
+  url: https://www.supply.ai/aspen
+  img: /static/assets/aspen.png
   desc: AspenCX is a post purchase customer management system that enhances retailers' ability to service customers across multiple channels.
 
 - name: View
   i18n: view
+  url: https://acadview.com/
   img: /static/assets/img/landing/python.png
-  desc: Acadview Is a EdTech company, I worked as a full-stack developer and done data analytics for the product whose features were mostly ops-driven.
+  desc: Acadview Is a EdTech company, I contributed to full-stack development and data analytics building the product whose features were mostly ops-driven.
 
-- name: CMS
-  i18n: music
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: SaaS Comm
+  i18n: sass_comm
+  gh_user: ivjotsingh
+  repo: SAAS_shopping
+  img: /static/assets/img/landing/dj.png
+  desc: Software as a service products which e-commerce websites can intergerate to improve the shopping experience.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Personifier
+  i18n: buyer_persona
+  gh_user: ivjotsingh
+  repo: buyer_persona
+  img: /static/assets/img/landing/ana.png
+  desc: Digital marketing tool helps to find out the buyer's persona by plotting its interest and based on hash_tags, location, comments etc on Instagram.
+
+- name: Word Beater
+  i18n: word-beater
+  gh_user: ivjotsingh
+  repo: word-beater
+  img: /static/assets/img/landing/JS.png
+  desc: Simple JS game that increments your score if you type the right word as displayed else game over.
