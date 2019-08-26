@@ -4,7 +4,7 @@
     detail: Supply AI (DataCulture Inc.)
     i18n: company_a
   desc:
-    detail: I write performant and maintainable code for our flagship SAAS product AspenCX in Django along with contributing in the DevOps engineering with the team.
+    detail: I write performant and maintainable code for our flagship SaaS product AspenCX in Django along with contributing in the DevOps engineering with the team.
     i18n: company_a_desc
   date:
     detail: November. 2018
@@ -19,7 +19,7 @@
     detail: Acadview (Acquired by UpGrad)
     i18n: company_b
   desc:
-    detail: Here I developed various features in the product which were mostly Ops-driven like Payment Automation System, Content Management System and Analytics Dashboard for Projects, Sales, Assignments, Attendance, schedule etc.
+    detail: Here I developed various features for our product(Content Management and Analytics System) which were mostly Ops-driven like Payment Automation System, Analytics Dashboard for Projects, Sales, Assignments, Attendance, schedule etc.
     i18n: company_b_desc
   date:
     detail: June. 2018
@@ -33,7 +33,7 @@
     detail: Acadview (Internship)
     i18n: company_b
   desc:
-    detail: During this time period I taught Python and Django to the batch of 28 students in the project-based learning environment along with contributing to the development of Result Automation System (marksheets and transcripts pdf generation) for Jagganath University.
+    detail: During this time period I taught Python and Django to the batch of 28 B.Tech students in the project-based learning environment along with contributing to the development of Result Automation System (marksheets and transcripts pdf generation) for Jagganath University.
     i18n: company_b_desc
   date:
     detail: june. 2017

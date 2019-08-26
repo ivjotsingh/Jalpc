@@ -12,8 +12,8 @@ img_path: /portfolio/static/assets/img/blog/  # url should be '/homepage/static/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Ivjot Singh  # Be used at blog posts' author.
-  first_name: Ivjot  # Be used at index page about me section.
-  last_name: Singh  # Be used at index page about me section.
+  first_name: I build  # Be used at index page about me section.
+  last_name: things  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: ivjotsingh  # Leave blank if you don't have now
   linkedin_id: ivjot-singh-8376810966 # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-postgres
-  desc: A software engineer who is more inclined towards backednd development, devOps automation and facinated to read and write technical blogs.<br> Aut viam inveniam aut faciam(I will either find a way or make one).  # Describe yourself.
+  desc: Hi, I am Ivjot Singh based out in New Delhi, India. <br> A software engineer who is more inclined towards backednd development, devOps automation and facinated to read and write technical blogs.<br> Aut viam inveniam aut faciam(I will either find a way or make one).  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
